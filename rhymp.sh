@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # rhymp -- a grep-based tool to find rhyming words in text
-# code repository: https://github.com/massimo-nazaria/rhymegrep
+# code repository: https://github.com/massimo-nazaria/rhyme-grep
 # usage: ./rhymp.sh [word] [file] [-o|--only-rhyming]
 # note: if no [file] given, read text from stdin
 
